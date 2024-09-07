@@ -1,0 +1,8 @@
+.contain{
+    border: 1px solid black;
+    margin: 15px;
+    border-radius: 10px;
+    width: 40%;
+    min-width: 300px;
+    padding: 15px;
+} 
